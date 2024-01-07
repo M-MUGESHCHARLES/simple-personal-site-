@@ -1,0 +1,63 @@
+a:hover {
+    color: rgb(235, 11, 11);
+}
+
+h3 {
+    color: #164863;
+}
+h3:hover {
+    color: #49D;
+    text-decoration: underline;
+
+}
+
+h3.index {
+    color: #427D9D;
+}
+.index:hover{ 
+    color: #49D;
+}
+
+hr {
+   border-top-style: dotted;
+   border-top-color: grey;
+   border-bottom-style: none;
+   border-left-style: none;
+   border-right-style: none;
+   width: 90%;
+   border-width: 3px;
+}
+ 
+p,ol,address,form,table {
+    color: darkcyan;
+}
+
+thead {
+    color: black;
+}
+
+.name {
+    color:#164863;
+    font-family: monospace;
+    font-size: 40px;
+}
+
+
+.name:hover{
+    color:teal;  
+    text-transform: uppercase;  
+    text-shadow: 2px 2px 5px #96EFFF;
+}
+
+.profile_pic{
+       border-radius: 70px;
+}
+
+.thank_you{
+    color: teal;
+    text-shadow: 2px 2px 5px #96EFFF;
+}
+
+#bgcolor {
+    background-color: #DDF2FD;
+}
